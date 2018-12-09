@@ -1,6 +1,7 @@
 # USB Device Releated Vulnerabilities
 
-Collection of USB device(slave) related vulnerabilties : The vulnerabilites mentioned below use USB slave device as an attack vector to bypass security in the embedded system. 
+Collection of USB device(slave) related vulnerabilties : 
+The vulnerabilites mentioned below use USB slave device as an attack vector to bypass security in the embedded system. Security bypass can be through USB recovery mode and to circumvent firmware signature.  
 
 - [Vulnerability Disclosure: Fusée Gelée (CVE-2018-6242) - Katherine Temkin (@ktemkin)](https://github.com/Cease-and-DeSwitch/fusee-launcher/blob/master/report/fusee_gelee.md)
 
